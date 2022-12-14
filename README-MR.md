@@ -1,7 +1,7 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong> हा मार्गदर्शक इतर भाषांमध्ये वाचा </strong>
+<strong> અન્ય ભાષાઓમાં આ માર્ગદર્શિકા વાંચો </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
@@ -22,21 +22,21 @@
 </details>
 <!-- Do not translate this -->
 
-# आपले स्वागत आहे नवख्या ओपन सोर्स सहयोगी!
+# નવા ઓપન સોર્સ એસોસિએટ્સનું સ્વાગત છે!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-ओपन सोर्समध्ये सहयोग देण्यासाठी नवीन असलेल्या लोकांच्या संसाधनांची ही सूची आहे.
+ઓપન સોર્સમાં સહયોગ કરવા માટે નવા લોકો માટે આ સંસાધનોની સૂચિ છે.
 
-आपल्याला अतिरिक्त संसाधने आढळल्यास, कृपया पुल विनंतीनी सहयोग द्या.
+જો તમને વધારાના સંસાધનો મળે, તો કૃપા કરીને પુલ વિનંતી સબમિટ કરો.
 
-आपल्याकडे प्रश्न किंवा टिप्पण्या असल्यास कृपया एक समस्या तयार करा.
+જો તમારી પાસે પ્રશ્નો અથવા ટિપ્પણીઓ હોય, તો કૃપા કરીને એક મુદ્દો બનાવો.
 
-**सामग्री**
+**સામગ્રી**
 
-- [सर्वसाधारणपणे ओपन सोर्समध्ये योगदान देणे](#सर्वसाधारणपणे-ओपन-सोर्समध्ये-योगदान-देणे)
+- [સામાન્ય રીતે ઓપન સોર્સમાં યોગદાન આપવું](#ઓપન સોર્સ-માં-સામાન્ય માટે યોગદાન આપવું)
 - [डायरेक्ट गिटहब शोध](#डायरेक्ट-गिटहब-शोध)
 - [मोज़िलाची योगदानकर्ता पर्यावरणीय प्रणाली](#मोज़िला-योगदानकर्ता-पर्यावरणीय-प्रणाली)
 - [नवीन ओपन सोर्स योगदानकर्त्यांसाठी उपयुक्त लेख](#नवीन-ओपन-सोर्स-योगदानकर्त्यांसाठी-उपयुक्त-लेख)
